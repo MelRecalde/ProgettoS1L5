@@ -1,0 +1,83 @@
+/* Your styles here */
+body {
+    margin: 0;
+    text-align: center;
+    width: 450px;
+    height: 500px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.logo {
+    background-color: black;
+    line-height: 10px;
+    text-align: center;
+    padding: 30px;
+}
+
+.banner {
+    background-image: url(../images/banner.jpg);
+    background-size: contain;
+    padding: 10px;
+    max-width: 100%;
+    min-width: 100px;
+}
+
+button {
+    background-color: #f04c2f;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 1px #f04c2f;
+    padding: 10px;
+}
+
+.title1 {
+    color: #25a2c3
+}
+
+.titles1 {
+    color: #25a2c3;
+}
+
+.notebook {
+    margin: 0;
+    display: inline;
+    width: 200px;
+    height: 300px;
+    padding: 10px;
+    line-height: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.image {
+    border: 50%;
+
+}
+
+footer {
+    background-color: #25a2c3;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.orange-bg {
+    background-color: #e22d0e;
+    color: white;
+    padding: 2px;
+}
+
+.titles2 {
+    color: #25a2c3;
+}
+
+article {
+    display: inline;
+}
+
+.container {
+    padding: 10px;
+    text-align: center;
+    cont
+}
